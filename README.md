@@ -1,4 +1,5 @@
-![Convert to Binary](/Convert%20to%20Binary.png)
+# Fork Info
+This is a fork of RenderTom's [Convert to Binary](https://bitbucket.org/rendertom/convert-to-binary/src/master/) script. This fork adds new "Convert Directory To Binary" function to the script. The function runs the conversion on all files in a directiory and all it's subdirectories recursively. The output is a text file with all files converted to strings and declared as vars and placed in an object which copies the directory structure.
 
 # Convert to Binary #
 
